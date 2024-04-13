@@ -1,5 +1,3 @@
-☯️
-
 # BACK-END DEV #
 
 💻 Programming languages • Java
